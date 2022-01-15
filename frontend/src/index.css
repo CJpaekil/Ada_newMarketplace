@@ -1,0 +1,25 @@
+.cursor-pointer {
+    cursor: pointer !important;
+}
+
+.background-white {
+    background-color: white !important;
+}
+
+.color-white {
+    color: white !important;
+}
+
+.color-black {
+    color: black !important;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #dee2e6 !important;
+}
+
+.sort-options, .sort-options:focus {
+    background-color: transparent;
+    color: white;
+    border-color: #7ceb7c;
+}
